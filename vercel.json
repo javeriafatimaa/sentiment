@@ -1,7 +1,7 @@
 {
     "builds":[
         {
-            "src":"api/___init__.py",
+            "src":"api/sentiment.py",
             "use":"@vercel/python"
         }
     ],
